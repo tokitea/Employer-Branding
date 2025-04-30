@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_visualization">
+    <par_visualization action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <certified>false</certified>
+        <description/>
+        <macroponent display_value="List - Simple">2b1c080881e05dc63b917044290b233f</macroponent>
+        <name>EB Tasks - Not Scheduled</name>
+        <properties>{"columns":"content_description,desired_date_time,eb_team_assigned,manager_approval,platform,scheduled_date_time,status,type_of_post,sys_updated_on","fixedQuery":"","hideColumnFiltering":false,"hideColumnGrouping":false,"hideColumnReorder":false,"hideColumnResizing":false,"hideColumnSorting":false,"hideDotwalk":false,"hideEmptyStateImage":false,"hideHeader":false,"hideHighlightContent":false,"hideHighlightedValues":false,"hideInlineEditing":false,"hideLastRefreshedText":true,"hideLinks":false,"hidePersonalization":true,"hideRefreshButton":false,"hideRowSelector":false,"hideTitle":false,"hideTitleRowCount":false,"hideViewAll":false,"highlightContent":{"color":"","patterns":[]},"highlightedValueConfigId":"","followFilters":true,"limit":20,"listTitle":"EB Tasks - Not Scheduled","maxCharLimit":4000,"maxColumns":9.0,"overrideWordWrapUserPref":false,"query":"status!=Scheduled","refreshRequested":"","table":"x_1667915_4dot_social_media_activity","wordWrap":false,"showBorder":true,"isDashboard":true}</properties>
+        <requested_by/>
+        <scheduled_count>0</scheduled_count>
+        <sys_class_name>par_visualization</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-30 09:03:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8d2f19c5fc4499902b00a4fe5df62171</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>EB Tasks - Not Scheduled</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope>
+        <sys_update_name>par_visualization_8d2f19c5fc4499902b00a4fe5df62171</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-30 09:04:55</sys_updated_on>
+        <type>List - Simple</type>
+    </par_visualization>
+</record_update>

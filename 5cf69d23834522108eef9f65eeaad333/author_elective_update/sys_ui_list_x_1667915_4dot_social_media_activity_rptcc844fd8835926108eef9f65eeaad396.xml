@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_1667915_4dot_social_media_activity" version="2" view="RPTcc844fd8835926108eef9f65eeaad396">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>content_description</element>
+            <list_id display_value="x_1667915_4dot_social_media_activity" element="NULL" name="x_1667915_4dot_social_media_activity" parent="NULL" relationship="NULL" sys_domain="global" view="8084c75c835926108eef9f65eeaad31f">8c84c75c835926108eef9f65eeaad31f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-30 09:05:29</sys_created_on>
+            <sys_id>0884c75c835926108eef9f65eeaad320</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-30 09:05:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>desired_date_time</element>
+            <list_id display_value="x_1667915_4dot_social_media_activity" element="NULL" name="x_1667915_4dot_social_media_activity" parent="NULL" relationship="NULL" sys_domain="global" view="8084c75c835926108eef9f65eeaad31f">8c84c75c835926108eef9f65eeaad31f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-30 09:05:29</sys_created_on>
+            <sys_id>0c84c75c835926108eef9f65eeaad320</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-30 09:05:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>eb_team_assigned</element>
+            <list_id display_value="x_1667915_4dot_social_media_activity" element="NULL" name="x_1667915_4dot_social_media_activity" parent="NULL" relationship="NULL" sys_domain="global" view="8084c75c835926108eef9f65eeaad31f">8c84c75c835926108eef9f65eeaad31f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-30 09:05:29</sys_created_on>
+            <sys_id>0084c75c835926108eef9f65eeaad321</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-30 09:05:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>manager_approval</element>
+            <list_id display_value="x_1667915_4dot_social_media_activity" element="NULL" name="x_1667915_4dot_social_media_activity" parent="NULL" relationship="NULL" sys_domain="global" view="8084c75c835926108eef9f65eeaad31f">8c84c75c835926108eef9f65eeaad31f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-30 09:05:29</sys_created_on>
+            <sys_id>0484c75c835926108eef9f65eeaad321</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-30 09:05:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>platform</element>
+            <list_id display_value="x_1667915_4dot_social_media_activity" element="NULL" name="x_1667915_4dot_social_media_activity" parent="NULL" relationship="NULL" sys_domain="global" view="8084c75c835926108eef9f65eeaad31f">8c84c75c835926108eef9f65eeaad31f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-30 09:05:29</sys_created_on>
+            <sys_id>0884c75c835926108eef9f65eeaad321</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-30 09:05:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>scheduled_date_time</element>
+            <list_id display_value="x_1667915_4dot_social_media_activity" element="NULL" name="x_1667915_4dot_social_media_activity" parent="NULL" relationship="NULL" sys_domain="global" view="8084c75c835926108eef9f65eeaad31f">8c84c75c835926108eef9f65eeaad31f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-30 09:05:29</sys_created_on>
+            <sys_id>0c84c75c835926108eef9f65eeaad321</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-30 09:05:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>status</element>
+            <list_id display_value="x_1667915_4dot_social_media_activity" element="NULL" name="x_1667915_4dot_social_media_activity" parent="NULL" relationship="NULL" sys_domain="global" view="8084c75c835926108eef9f65eeaad31f">8c84c75c835926108eef9f65eeaad31f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-30 09:05:29</sys_created_on>
+            <sys_id>0084c75c835926108eef9f65eeaad322</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-30 09:05:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>type_of_post</element>
+            <list_id display_value="x_1667915_4dot_social_media_activity" element="NULL" name="x_1667915_4dot_social_media_activity" parent="NULL" relationship="NULL" sys_domain="global" view="8084c75c835926108eef9f65eeaad31f">8c84c75c835926108eef9f65eeaad31f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-30 09:05:29</sys_created_on>
+            <sys_id>0484c75c835926108eef9f65eeaad322</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-30 09:05:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_1667915_4dot_social_media_activity" element="NULL" name="x_1667915_4dot_social_media_activity" parent="NULL" relationship="NULL" sys_domain="global" view="8084c75c835926108eef9f65eeaad31f">8c84c75c835926108eef9f65eeaad31f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-30 09:05:29</sys_created_on>
+            <sys_id>0884c75c835926108eef9f65eeaad322</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-30 09:05:29</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1667915_4dot_social_media_activity</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-30 09:05:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c84c75c835926108eef9f65eeaad31f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1667915_4dot_social_media_activity</sys_name>
+            <sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope>
+            <sys_update_name>sys_ui_list_x_1667915_4dot_social_media_activity_RPTcc844fd8835926108eef9f65eeaad396</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-30 09:05:29</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rptcc844fd8835926108eef9f65eeaad396" name="RPTcc844fd8835926108eef9f65eeaad396">8084c75c835926108eef9f65eeaad31f</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</application>
+        <file_path/>
+        <instance_id>998e3c1c3b60a254c55a348aa4e45aba</instance_id>
+        <instance_name>dev307760</instance_name>
+        <name>sys_ui_list_x_1667915_4dot_social_media_activity_RPTcc844fd8835926108eef9f65eeaad396</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_1667915_4dot_social_media_activity" version="2" view="RPTcc844fd8835926108eef9f65eeaad396"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>content_description</element><list_id display_value="x_1667915_4dot_social_media_activity" element="NULL" name="x_1667915_4dot_social_media_activity" parent="NULL" relationship="NULL" sys_domain="global" view="8084c75c835926108eef9f65eeaad31f">8c84c75c835926108eef9f65eeaad31f</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 09:05:29</sys_created_on><sys_id>0884c75c835926108eef9f65eeaad320</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 09:05:29</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>desired_date_time</element><list_id display_value="x_1667915_4dot_social_media_activity" element="NULL" name="x_1667915_4dot_social_media_activity" parent="NULL" relationship="NULL" sys_domain="global" view="8084c75c835926108eef9f65eeaad31f">8c84c75c835926108eef9f65eeaad31f</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 09:05:29</sys_created_on><sys_id>0c84c75c835926108eef9f65eeaad320</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 09:05:29</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>eb_team_assigned</element><list_id display_value="x_1667915_4dot_social_media_activity" element="NULL" name="x_1667915_4dot_social_media_activity" parent="NULL" relationship="NULL" sys_domain="global" view="8084c75c835926108eef9f65eeaad31f">8c84c75c835926108eef9f65eeaad31f</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 09:05:29</sys_created_on><sys_id>0084c75c835926108eef9f65eeaad321</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 09:05:29</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>manager_approval</element><list_id display_value="x_1667915_4dot_social_media_activity" element="NULL" name="x_1667915_4dot_social_media_activity" parent="NULL" relationship="NULL" sys_domain="global" view="8084c75c835926108eef9f65eeaad31f">8c84c75c835926108eef9f65eeaad31f</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 09:05:29</sys_created_on><sys_id>0484c75c835926108eef9f65eeaad321</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 09:05:29</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>platform</element><list_id display_value="x_1667915_4dot_social_media_activity" element="NULL" name="x_1667915_4dot_social_media_activity" parent="NULL" relationship="NULL" sys_domain="global" view="8084c75c835926108eef9f65eeaad31f">8c84c75c835926108eef9f65eeaad31f</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 09:05:29</sys_created_on><sys_id>0884c75c835926108eef9f65eeaad321</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 09:05:29</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>scheduled_date_time</element><list_id display_value="x_1667915_4dot_social_media_activity" element="NULL" name="x_1667915_4dot_social_media_activity" parent="NULL" relationship="NULL" sys_domain="global" view="8084c75c835926108eef9f65eeaad31f">8c84c75c835926108eef9f65eeaad31f</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 09:05:29</sys_created_on><sys_id>0c84c75c835926108eef9f65eeaad321</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 09:05:29</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>status</element><list_id display_value="x_1667915_4dot_social_media_activity" element="NULL" name="x_1667915_4dot_social_media_activity" parent="NULL" relationship="NULL" sys_domain="global" view="8084c75c835926108eef9f65eeaad31f">8c84c75c835926108eef9f65eeaad31f</list_id><max_value>false</max_value><min_value>false</min_value><position>6</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 09:05:29</sys_created_on><sys_id>0084c75c835926108eef9f65eeaad322</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 09:05:29</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>type_of_post</element><list_id display_value="x_1667915_4dot_social_media_activity" element="NULL" name="x_1667915_4dot_social_media_activity" parent="NULL" relationship="NULL" sys_domain="global" view="8084c75c835926108eef9f65eeaad31f">8c84c75c835926108eef9f65eeaad31f</list_id><max_value>false</max_value><min_value>false</min_value><position>7</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 09:05:29</sys_created_on><sys_id>0484c75c835926108eef9f65eeaad322</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 09:05:29</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_updated_on</element><list_id display_value="x_1667915_4dot_social_media_activity" element="NULL" name="x_1667915_4dot_social_media_activity" parent="NULL" relationship="NULL" sys_domain="global" view="8084c75c835926108eef9f65eeaad31f">8c84c75c835926108eef9f65eeaad31f</list_id><max_value>false</max_value><min_value>false</min_value><position>8</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 09:05:29</sys_created_on><sys_id>0884c75c835926108eef9f65eeaad322</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 09:05:29</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_1667915_4dot_social_media_activity</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 09:05:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8c84c75c835926108eef9f65eeaad31f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1667915_4dot_social_media_activity</sys_name><sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package><sys_policy/><sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope><sys_update_name>sys_ui_list_x_1667915_4dot_social_media_activity_RPTcc844fd8835926108eef9f65eeaad396</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 09:05:29</sys_updated_on><sys_user/><view display_value="Rptcc844fd8835926108eef9f65eeaad396" name="RPTcc844fd8835926108eef9f65eeaad396">8084c75c835926108eef9f65eeaad31f</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>1744762891</payload_hash>
+        <record_name> Social Media Activity</record_name>
+        <reverted_from/>
+        <source>df17d5a3834522108eef9f65eeaad3bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-30 09:05:29</sys_created_on>
+        <sys_id>1c84c75c835926108eef9f65eeaad325</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19685f1ab570000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-30 09:05:29</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>9084c75cfd592610e088ff50ed3d0d25</update_guid>
+        <update_guid_history>9084c75cfd592610e088ff50ed3d0d25:1744762891</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-30 09:06:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>4e3d8d24cba84deeb53d387fdb5ab544</sys_id>
+        <sys_metadata>8c84c75c835926108eef9f65eeaad31f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1667915_4dot_social_media_activity</sys_name>
+        <sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package>
+        <sys_parent display_value=" Social Media Activity">20a7d563834522108eef9f65eeaad368</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope>
+        <sys_scope_delete display_value="">c60e41119d9e412eb14b1a94626a2444</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_1667915_4dot_social_media_activity_RPTcc844fd8835926108eef9f65eeaad396</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_1667915_4dot_social_media_activity_RPTcc844fd8835926108eef9f65eeaad396">1c84c75c835926108eef9f65eeaad325</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-30 09:06:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
