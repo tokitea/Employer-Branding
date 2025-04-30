@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>false</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>true</add_message>
+        <advanced>false</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_1667915_4dot_social_media_activity</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition table="x_1667915_4dot_social_media_activity">eb_team_assignedVALCHANGES^EQ<item endquery="false" field="eb_team_assigned" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter_condition>
+        <is_rest>false</is_rest>
+        <message><![CDATA[<p><em><strong>Updating status to <span style="color: rgb(224, 62, 45);">in review</span> since a team member is assigned.</strong></em></p>]]></message>
+        <name>Changing status to in review</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Add your code here
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-29 09:17:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f50cb1448311e2108eef9f65eeaad38b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Changing status to in review</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope>
+        <sys_update_name>sys_script_f50cb1448311e2108eef9f65eeaad38b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-29 09:19:18</sys_updated_on>
+        <template>status=In review^EQ</template>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=f50cb1448311e2108eef9f65eeaad38b"/>
+</record_update>

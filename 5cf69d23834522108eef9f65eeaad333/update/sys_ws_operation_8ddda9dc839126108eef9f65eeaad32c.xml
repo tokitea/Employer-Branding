@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_operation">
+    <sys_ws_operation action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <consumes>application/json,application/xml,text/xml</consumes>
+        <consumes_customized>false</consumes_customized>
+        <default_operation_uri/>
+        <enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl>
+        <http_method>POST</http_method>
+        <name>Publish Post</name>
+        <operation_script><![CDATA[(function process(/*RESTAPIRequest*/ request, /*RESTAPIResponse*/ response) { 
+    var sysId = request.pathParams.sys_id;
+
+    var gr = new GlideRecord('x_1667915_4dot_social_media_activity');
+    if (!gr.get(sysId)) {
+        response.setStatus(404);
+        return { error: "Post not found." };
+    }
+
+    if (gr.status != 'Approved') {
+        response.setStatus(400);
+        return { error: "Post is not approved. Cannot publish." };
+    }
+
+    var now = new GlideDateTime();
+    var scheduled = new GlideDateTime(gr.scheduled_date_time);
+    if (scheduled.after(now)) {
+        response.setStatus(400);
+        return { error: "Scheduled time has not yet arrived: " + scheduled.getDisplayValue() };
+    }
+
+    gr.status = 'Published';
+    gr.update();
+
+    var attachments = [];
+    var attachmentGR = new GlideRecord('sys_attachment');
+    attachmentGR.addQuery('table_name', 'x_1667915_4dot_social_media_activity');
+    attachmentGR.addQuery('table_sys_id', sysId);
+    attachmentGR.query();
+
+    var instanceUrl = gs.getProperty("glide.servlet.uri");
+
+    while (attachmentGR.next()) {
+        attachments.push({
+            sys_id: attachmentGR.getUniqueValue(),
+            file_name: attachmentGR.getValue('file_name'),
+            download_url: instanceUrl + "api/now/attachment/" + attachmentGR.getUniqueValue() + "/file"
+        });
+    }
+
+    var attachmentMessage = (attachments.length > 0)
+        ? attachments.length + " attachment(s) found and linked to this post."
+        : "No attachments found for this post.";
+
+    return {
+        message: "✅ Post '" + gr.content_description + "' (ID: " + gr.getUniqueValue() + ") published successfully.",
+        post: {
+            sys_id: gr.getUniqueValue(),
+            platform: gr.platform.toString(),
+            scheduled_time: gr.scheduled_date_time.getDisplayValue(),
+            description: gr.content_description.toString(),
+            status: gr.status.toString(),
+            attachments: {
+                message: attachmentMessage,
+                files: attachments
+            }
+        }
+    };
+
+})(request, response);
+]]></operation_script>
+        <operation_uri>/api/x_1667915_4dot/post_publishing_api/publish/{sys_id}</operation_uri>
+        <produces>application/json,application/xml,text/xml</produces>
+        <produces_customized>false</produces_customized>
+        <relative_path>/publish/{sys_id}</relative_path>
+        <request_example/>
+        <requires_acl_authorization>true</requires_acl_authorization>
+        <requires_authentication>true</requires_authentication>
+        <requires_snc_internal_role>true</requires_snc_internal_role>
+        <short_description/>
+        <sys_class_name>sys_ws_operation</sys_class_name>
+        <sys_created_by>teadisho</sys_created_by>
+        <sys_created_on>2025-04-30 02:47:55</sys_created_on>
+        <sys_id>8ddda9dc839126108eef9f65eeaad32c</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Publish Post</sys_name>
+        <sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope>
+        <sys_update_name>sys_ws_operation_8ddda9dc839126108eef9f65eeaad32c</sys_update_name>
+        <sys_updated_by>teadisho</sys_updated_by>
+        <sys_updated_on>2025-04-30 10:42:51</sys_updated_on>
+        <web_service_definition display_value="Post Publishing API">93bde5dc839126108eef9f65eeaad3eb</web_service_definition>
+        <web_service_version/>
+    </sys_ws_operation>
+</record_update>

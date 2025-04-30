@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_1667915_4dot_social_media_activity">active=true</condition>
+        <group/>
+        <name>4Dot Machines - x_1667915_4dot_social_media_activi</name>
+        <roles/>
+        <source_table>x_1667915_4dot_social_media_activity</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-28 01:03:24</sys_created_on>
+        <sys_id>3ef2432f834d22108eef9f65eeaad3a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4Dot Machines - x_1667915_4dot_social_media_activi</sys_name>
+        <sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope>
+        <sys_update_name>sys_search_source_3ef2432f834d22108eef9f65eeaad3a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-28 01:03:24</sys_updated_on>
+    </sys_search_source>
+</record_update>

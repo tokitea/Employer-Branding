@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</contains>
+        <role display_value="x_1667915_4dot.The Managers" name="x_1667915_4dot.The Managers">07668763838d22108eef9f65eeaad32e</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-28 01:19:49</sys_created_on>
+        <sys_id>1fb64f63838d22108eef9f65eeaad30a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>admin.x_1667915_4dot.The Managers</sys_name>
+        <sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope>
+        <sys_update_name>sys_user_role_contains_1fb64f63838d22108eef9f65eeaad30a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-28 01:19:49</sys_updated_on>
+    </sys_user_role_contains>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</application>
+        <file_path/>
+        <instance_id>998e3c1c3b60a254c55a348aa4e45aba</instance_id>
+        <instance_name>dev307760</instance_name>
+        <name>sys_user_role_contains_1fb64f63838d22108eef9f65eeaad30a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</contains><role display_value="x_1667915_4dot.The Managers" name="x_1667915_4dot.The Managers">07668763838d22108eef9f65eeaad32e</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-28 01:19:49</sys_created_on><sys_id>1fb64f63838d22108eef9f65eeaad30a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>admin.x_1667915_4dot.The Managers</sys_name><sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package><sys_policy/><sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope><sys_update_name>sys_user_role_contains_1fb64f63838d22108eef9f65eeaad30a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-28 01:19:49</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+        <payload_hash>817456640</payload_hash>
+        <record_name>admin.x_1667915_4dot.The Managers</record_name>
+        <reverted_from/>
+        <source>df17d5a3834522108eef9f65eeaad3bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-28 01:19:49</sys_created_on>
+        <sys_id>d3b64f63838d22108eef9f65eeaad3c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19679fa9e080000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-28 01:19:49</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>d7b64f63d78d22109159f9901bb31ec3</update_guid>
+        <update_guid_history>d7b64f63d78d22109159f9901bb31ec3:817456640</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-28 09:38:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>ba42cc7d02e6426a9f48e5945aa4fa84</sys_id>
+        <sys_metadata>1fb64f63838d22108eef9f65eeaad30a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>admin.x_1667915_4dot.The Managers</sys_name>
+        <sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope>
+        <sys_scope_delete display_value="">c60e41119d9e412eb14b1a94626a2444</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_1fb64f63838d22108eef9f65eeaad30a</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_1fb64f63838d22108eef9f65eeaad30a">d3b64f63838d22108eef9f65eeaad3c4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-28 09:38:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>x_1667915_4dot.EB team,x_1667915_4dot.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-28 01:05:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e8338f2f834d22108eef9f65eeaad309</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Need user access in social media table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope>
+        <sys_update_name>sys_app_application_e8338f2f834d22108eef9f65eeaad309</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-28 01:05:39</sys_updated_on>
+        <title>Need user access in social media table</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</application>
+        <file_path/>
+        <instance_id>998e3c1c3b60a254c55a348aa4e45aba</instance_id>
+        <instance_name>dev307760</instance_name>
+        <name>sys_app_application_e8338f2f834d22108eef9f65eeaad309</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles>x_1667915_4dot.EB team,x_1667915_4dot.user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-28 01:05:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e8338f2f834d22108eef9f65eeaad309</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Need user access in social media table</sys_name><sys_overrides/><sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package><sys_policy/><sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope><sys_update_name>sys_app_application_e8338f2f834d22108eef9f65eeaad309</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-28 01:05:39</sys_updated_on><title>Need user access in social media table</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>1285854236</payload_hash>
+        <record_name>Need user access in social media table</record_name>
+        <reverted_from/>
+        <source>df17d5a3834522108eef9f65eeaad3bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-28 01:05:39</sys_created_on>
+        <sys_id>bb73076f834d22108eef9f65eeaad353</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19679eda33f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-28 01:05:39</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>bf73076f324d221062b68d069f856752</update_guid>
+        <update_guid_history>bf73076f324d221062b68d069f856752:1285854236</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Need user access in social media table">9df3cf6f834d22108eef9f65eeaad3c0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-28 01:07:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>073e6f920e1a4c5a9d0b858b102671d9</sys_id>
+        <sys_metadata>e8338f2f834d22108eef9f65eeaad309</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Need user access in social media table</sys_name>
+        <sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope>
+        <sys_scope_delete display_value="">c60e41119d9e412eb14b1a94626a2444</sys_scope_delete>
+        <sys_update_name>sys_app_application_e8338f2f834d22108eef9f65eeaad309</sys_update_name>
+        <sys_update_version display_value="sys_app_application_e8338f2f834d22108eef9f65eeaad309">bb73076f834d22108eef9f65eeaad353</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-28 01:07:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

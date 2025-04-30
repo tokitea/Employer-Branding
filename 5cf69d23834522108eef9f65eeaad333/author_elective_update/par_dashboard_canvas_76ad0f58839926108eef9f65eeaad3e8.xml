@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
+    <par_dashboard_canvas action="DELETE">
+        <dashboard display_value="EB Dashbord">76ad0758839926108eef9f65eeaad3cb</dashboard>
+        <dashboard_tab/>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-30 09:45:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>76ad0f58839926108eef9f65eeaad3e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope>
+        <sys_update_name>par_dashboard_canvas_76ad0f58839926108eef9f65eeaad3e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-30 09:45:32</sys_updated_on>
+    </par_dashboard_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</application>
+        <file_path/>
+        <instance_id>998e3c1c3b60a254c55a348aa4e45aba</instance_id>
+        <instance_name>dev307760</instance_name>
+        <name>par_dashboard_canvas_76ad0f58839926108eef9f65eeaad3e8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="EB Dashbord">76ad0758839926108eef9f65eeaad3cb</dashboard><dashboard_tab/><layout>[]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 09:45:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>76ad0f58839926108eef9f65eeaad3e8</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package><sys_policy/><sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope><sys_update_name>par_dashboard_canvas_76ad0f58839926108eef9f65eeaad3e8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 09:45:32</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+        <payload_hash>-1531452543</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>df17d5a3834522108eef9f65eeaad3bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-30 09:45:32</sys_created_on>
+        <sys_id>76ad0f58839926108eef9f65eeaad3ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1968616538d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-30 09:45:32</sys_updated_on>
+        <type>PAR Dashboard Page Canvas</type>
+        <update_guid>7aad0f58c19926107dc9456212e3a2e9</update_guid>
+        <update_guid_history>7aad0f58c19926107dc9456212e3a2e9:-1531452543</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">bb30975c839926108eef9f65eeaad360</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-30 09:56:48</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_canvas">par_dashboard_canvas</sys_db_object>
+        <sys_id>28ca0b30d65f48988a3f550286c76240</sys_id>
+        <sys_metadata>76ad0f58839926108eef9f65eeaad3e8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope>
+        <sys_scope_delete display_value="">c60e41119d9e412eb14b1a94626a2444</sys_scope_delete>
+        <sys_update_name>par_dashboard_canvas_76ad0f58839926108eef9f65eeaad3e8</sys_update_name>
+        <sys_update_version display_value="par_dashboard_canvas_76ad0f58839926108eef9f65eeaad3e8">76ad0f58839926108eef9f65eeaad3ea</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-30 09:56:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

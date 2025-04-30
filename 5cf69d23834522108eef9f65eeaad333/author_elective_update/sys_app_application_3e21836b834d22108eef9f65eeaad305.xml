@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>x_1667915_4dot.EB team,workspace_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-28 00:57:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3e21836b834d22108eef9f65eeaad305</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Need workspace access</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope>
+        <sys_update_name>sys_app_application_3e21836b834d22108eef9f65eeaad305</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-28 00:57:34</sys_updated_on>
+        <title>Need workspace access</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</application>
+        <file_path/>
+        <instance_id>998e3c1c3b60a254c55a348aa4e45aba</instance_id>
+        <instance_name>dev307760</instance_name>
+        <name>sys_app_application_3e21836b834d22108eef9f65eeaad305</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles>x_1667915_4dot.EB team,workspace_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-28 00:57:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3e21836b834d22108eef9f65eeaad305</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Need workspace access</sys_name><sys_overrides/><sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package><sys_policy/><sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope><sys_update_name>sys_app_application_3e21836b834d22108eef9f65eeaad305</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-28 00:57:34</sys_updated_on><title>Need workspace access</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>592722740</payload_hash>
+        <record_name>Need workspace access</record_name>
+        <reverted_from/>
+        <source>df17d5a3834522108eef9f65eeaad3bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-28 00:57:34</sys_created_on>
+        <sys_id>d1a1836b834d22108eef9f65eeaad343</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19679e63d960000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-28 00:57:34</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>d5a1836b484d22101eea510033520b42</update_guid>
+        <update_guid_history>d5a1836b484d22101eea510033520b42:592722740</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Need workspace access">45f3cb6f834d22108eef9f65eeaad35a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-28 01:07:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>2a84feac6c1e48f39dd93b3c9b58f7b9</sys_id>
+        <sys_metadata>3e21836b834d22108eef9f65eeaad305</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Need workspace access</sys_name>
+        <sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope>
+        <sys_scope_delete display_value="">c60e41119d9e412eb14b1a94626a2444</sys_scope_delete>
+        <sys_update_name>sys_app_application_3e21836b834d22108eef9f65eeaad305</sys_update_name>
+        <sys_update_version display_value="sys_app_application_3e21836b834d22108eef9f65eeaad305">d1a1836b834d22108eef9f65eeaad343</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-28 01:07:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

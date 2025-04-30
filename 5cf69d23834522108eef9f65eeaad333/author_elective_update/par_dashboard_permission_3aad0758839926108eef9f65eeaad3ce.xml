@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="DELETE">
+        <can_read>true</can_read>
+        <can_share>true</can_share>
+        <can_write>true</can_write>
+        <dashboard display_value="EB Dashbord">76ad0758839926108eef9f65eeaad3cb</dashboard>
+        <group/>
+        <owner>true</owner>
+        <role/>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-30 09:45:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3aad0758839926108eef9f65eeaad3ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>76ad0758839926108eef9f65eeaad3cb</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope>
+        <sys_update_name>par_dashboard_permission_3aad0758839926108eef9f65eeaad3ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-30 09:45:32</sys_updated_on>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+    </par_dashboard_permission>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</application>
+        <file_path/>
+        <instance_id>998e3c1c3b60a254c55a348aa4e45aba</instance_id>
+        <instance_name>dev307760</instance_name>
+        <name>par_dashboard_permission_3aad0758839926108eef9f65eeaad3ce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission"><par_dashboard_permission action="INSERT_OR_UPDATE"><can_read>true</can_read><can_share>true</can_share><can_write>true</can_write><dashboard display_value="EB Dashbord">76ad0758839926108eef9f65eeaad3cb</dashboard><group/><owner>true</owner><role/><sys_class_name>par_dashboard_permission</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 09:45:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3aad0758839926108eef9f65eeaad3ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>76ad0758839926108eef9f65eeaad3cb</sys_name><sys_overrides/><sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package><sys_policy/><sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope><sys_update_name>par_dashboard_permission_3aad0758839926108eef9f65eeaad3ce</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 09:45:32</sys_updated_on><user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user></par_dashboard_permission></record_update>]]></payload>
+        <payload_hash>764879263</payload_hash>
+        <record_name>76ad0758839926108eef9f65eeaad3cb</record_name>
+        <reverted_from/>
+        <source>df17d5a3834522108eef9f65eeaad3bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-30 09:45:32</sys_created_on>
+        <sys_id>7ead0758839926108eef9f65eeaad3d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196861653220000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-30 09:45:32</sys_updated_on>
+        <type>PAR Dashboard Permission</type>
+        <update_guid>32ad0758f1992610efc15a9df0e888d1</update_guid>
+        <update_guid_history>32ad0758f1992610efc15a9df0e888d1:764879263</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">7330975c839926108eef9f65eeaad370</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-30 09:56:48</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_permission">par_dashboard_permission</sys_db_object>
+        <sys_id>77bd29a92ba34ada8b364b2b0fb624b9</sys_id>
+        <sys_metadata>3aad0758839926108eef9f65eeaad3ce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>76ad0758839926108eef9f65eeaad3cb</sys_name>
+        <sys_package display_value="4Dot Machines" source="x_1667915_4dot">5cf69d23834522108eef9f65eeaad333</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="4Dot Machines">5cf69d23834522108eef9f65eeaad333</sys_scope>
+        <sys_scope_delete display_value="">c60e41119d9e412eb14b1a94626a2444</sys_scope_delete>
+        <sys_update_name>par_dashboard_permission_3aad0758839926108eef9f65eeaad3ce</sys_update_name>
+        <sys_update_version display_value="par_dashboard_permission_3aad0758839926108eef9f65eeaad3ce">7ead0758839926108eef9f65eeaad3d1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-30 09:56:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

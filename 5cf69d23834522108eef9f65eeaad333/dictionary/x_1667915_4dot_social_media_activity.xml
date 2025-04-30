@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="20a7d563834522108eef9f65eeaad368" label=" Social Media Activity" max_length="40" name="x_1667915_4dot_social_media_activity" text_index="true" type="collection">
+        <element choice="1" default="Pending" label="Manager Approval" max_length="40" name="manager_approval" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pending" sequence="1" value="Pending"/>
+                <element inactive_on_update="false" label="Approved" sequence="0" value="Approved"/>
+            </choice>
+        </element>
+        <element choice="3" default="LinkedIn" label="Platform" mandatory="true" max_length="40" name="platform" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Facebook" value="Facebook"/>
+                <element inactive_on_update="false" label="Instagram" value="Instagram"/>
+                <element inactive_on_update="false" label="LinkedIn" value="LinkedIn"/>
+                <element inactive_on_update="false" label="Twitter" value="Twitter"/>
+            </choice>
+        </element>
+        <element choice="1" default="Pending" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pending" sequence="2" value="Pending"/>
+                <element inactive_on_update="false" label="Scheduled" sequence="4" value="Scheduled"/>
+                <element inactive_on_update="false" label="In review" sequence="1" value="In review"/>
+                <element inactive_on_update="false" label="Approved" sequence="0" value="Approved"/>
+                <element inactive_on_update="false" label="Published" sequence="3" value="Published"/>
+            </choice>
+        </element>
+        <element label="Desired Date/Time" mandatory="true" max_length="40" name="desired_date_time" type="calendar_date_time"/>
+        <element default="This is a post description. " label="Content Description" max_length="255" name="content_description" type="string_full_utf8"/>
+        <element choice="3" default="Text" label="Type of Post" mandatory="true" max_length="40" name="type_of_post" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Document" value="Document"/>
+                <element inactive_on_update="false" label="Text" value="Text"/>
+                <element inactive_on_update="false" label="Video" value="Video"/>
+                <element inactive_on_update="false" label="Photo" value="Photo"/>
+            </choice>
+        </element>
+        <element label="EB team assigned" max_length="32" name="eb_team_assigned" reference="sys_user" reference_qual="roles=x_1667915_4dot.EB team^EQ" reference_qual_condition="roles=x_1667915_4dot.EB team^EQ" type="reference"/>
+        <element label="Scheduled Date/Time" max_length="40" name="scheduled_date_time" type="glide_date_time"/>
+        <index name="index">
+            <element name="eb_team_assigned"/>
+        </index>
+    </element>
+</database>
